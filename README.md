@@ -193,3 +193,7 @@ Component-based architecture supports easy feature addition
 Context API can be extended for more global state needs
 The service layer is modular and can be expanded
 Vite provides excellent build performance for a growing codebase
+
+## Video
+https://github.com/user-attachments/assets/2ef41f0c-94e2-4b12-a9a4-3743630c3804
+
